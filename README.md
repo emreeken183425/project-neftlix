@@ -1,2 +1,2 @@
 # project-neftlix
-yükleme
+[]()https://emreeken183425.github.io/project-neftlix/
